@@ -7,5 +7,5 @@ description = "Exograph syntax highlighting."
 repository = "https://github.com/exograph/zed-extension"
 
 [grammars.exograph]
-repository = "https://github.com/exograph/tree-sitter-grammar"
-commit = "<TODO>"
+repository = "https://github.com/exograph/tree-sitter-exograph"
+commit = "b6c30a8e5b7a899f7023c97971eaef2ec55b2f05"
